@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[View Website](#) — (https://github.com/ShaikHajiraTabassum/CuddlePaws)
+[View Website](#) — (http://127.0.0.1:5500/CuddlePaws-main/CuddlePaws/pet-care-website-main/index.html)
 
 ## Screenshots
 
