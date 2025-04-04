@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[View Website](#) — (Add your GitHub Pages or deployment link here)
+[View Website](#) — (https://github.com/ShaikHajiraTabassum/CuddlePaws)
 
 ## Screenshots
 
